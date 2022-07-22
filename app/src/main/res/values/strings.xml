@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Foodozers</string>
+    <string name="food_name" />
+    <string name="food_price" />
+    <string name="food_description" />
+</resources>
